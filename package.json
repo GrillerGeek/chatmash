@@ -1,0 +1,16 @@
+{
+  "name": "chatmash",
+  "version": "1.0.0",
+  "description": "Example nodejs app from codemash",
+  "main": "chatmash.js",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Robey",
+  "license": "ISC"
+}
